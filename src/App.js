@@ -8,7 +8,7 @@ function App() {
       <div className="contenedor-principal">
         <h1>Esto es lo que dicen los egresados del MBA de Negocios:</h1>
         <Testimonio 
-        imagen= '1'
+        imagen= '3'
         nombre='Dennys García'
         pais='Venezuela'
         cargo='Especialista en Compras'
@@ -17,17 +17,17 @@ function App() {
         />
 
       <Testimonio 
-        imagen='1'
-        nombre='Cristina Lanz'
-        pais='Argentina'
-        cargo='Consultora de Logística Internacional'
+        imagen='4'
+        nombre='Alejandro Rojas'
+        pais='Austria'
+        cargo='Consultor de Logística Internacional'
         empresa='Biogenesis Bago'
         testimonio='Me siento muy orgullosa de ser egresada de la maestría en Compras, Logística y Supply Chain Management de EAFIT y me siento muy confiada porque tengo mucho que aportar, me dieron herramientas y elementos muy importantes para la toma de decisiones'
         />
 
       <Testimonio 
-        imagen='3'
-        nombre='Dennys Lanz'
+        imagen='1'
+        nombre='Cristina Lanz'
         pais='España'
         cargo='Supply Chain and Management'
         empresa='Repsol'
@@ -35,8 +35,8 @@ function App() {
         />
 
         <Testimonio 
-        imagen='3'
-        nombre='Cristina García'
+        imagen='2'
+        nombre='David Rojas'
         pais='EEUU'
         cargo='Purchasing Manager'
         empresa='ExxonMobil'
